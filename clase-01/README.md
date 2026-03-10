@@ -48,6 +48,15 @@ Se mostró una [imagen](https://datos.gob.es/es/blog/como-elegir-el-grafico-corr
 
 ![varios-graficos](./imagenes/IMG_0739.jpeg)
 
+***
+
+## Ejercicio: Grupos por actividad deportiva
+
+Les estudiantes se agruparon por tipos de actividades deportiva: bicicleta, baile y paracaidismo.
+Cada grupo va a generar 3 preguntas para poder encontrar información: una de preferencia, otra de clasificación y otra de cuantificación.
+
+***
+
 ## Links varios
 
 - https://www.mslima.com
