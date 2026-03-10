@@ -46,12 +46,17 @@ Abordan temas que requieren de una expresión visual.
 
 Se mostró una [imagen](https://datos.gob.es/es/blog/como-elegir-el-grafico-correcto-para-visualizar-datos-abiertos) en la que se muestran variedades de gráficos y cómo se utilizan.
 
-Referente: [Manuel Lima](https://www.mslima.com)
+![varios-graficos](./imagenes/IMG_0739.jpeg)
 
 ## Links varios
 
+- https://www.mslima.com
 - https://www.jasondavies.com
 - https://www.worldometers.info
 - https://www.carbonmap.org/?lang=es
 - https://www.cartografiadigital.cl/map (proyecto universidad)
 - https://giorgialupi.com/dear-data (libro)
+- https://www.domesticstreamers.com
+- https://refikanadol.com/works/melting-memories/
+- https://www.dwbowen.com/telepresent-wind
+- https://www.aaronkoblin.com
