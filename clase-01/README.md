@@ -54,6 +54,7 @@ Se mostró una [imagen](https://datos.gob.es/es/blog/como-elegir-el-grafico-corr
 
 Les estudiantes se agruparon por tipos de actividades deportiva: bicicleta, baile y paracaidismo.
 Cada grupo va a generar 3 preguntas para poder encontrar información: una de preferencia, otra de clasificación y otra de cuantificación.
+Cómo un tipo de encuesta, hay que pensar en las posibles respuestas. Hay que pensar en el usuario y los datos a recopilar.
 
 ***
 
