@@ -53,9 +53,23 @@ Se mostró una [imagen](https://datos.gob.es/es/blog/como-elegir-el-grafico-corr
 ## Ejercicio: Grupos por actividad deportiva
 
 Les estudiantes se agruparon por tipos de actividades deportiva: bicicleta, baile y paracaidismo.
-Cada grupo va a generar 3 preguntas para poder encontrar información: una de preferencia, otra de clasificación y otra de cuantificación.
+Cada grupo va a generar 3 preguntas para poder encontrar información: una de preferencia (cualificable, hace referencia a las opiniones), otra de clasificación (orden sin ejercer importancia, es medible) y otra de cuantificación (es observable y se puede medir).
 Cómo un tipo de encuesta, hay que pensar en las posibles respuestas. Hay que pensar en el usuario y los datos a recopilar.
 
+Más cotidiano (deporte, transporte, se hacen mayores recorrids, es más cercano, más cotidiano y menos osado)
+
+Bicicleta =D Cualificable =D Personalidad y atrevimiento =D ¿En qué parte del salón te sientas? Adelante, en medio, atrás.
+          =D Cercanía =D ¿Quién te enseñó?
+          =D Género =D ¿Qué tipo de personas prefieren?
+          =D Vestimenta =D ¿Cuánto tiempo te demoras en elegir tu ropa?
+
+Las distancias de las cosas, ¿Cuánto se demoran en llegar a la U?, ¿Que tan cerca tienes acceso a un espacio de deporte (ginmacio, parque, etc)?
+
+Pandemia =D ¿En qué etapa educativa estabas durante la pandemia? Colegio (Enseñanza media), Sabático (Descanso, trabajo, etc), Universidad
+Nivel social =D En un día de descanso, ¿Sales 
+
+1. ¿En que parte de la sala me siento? (según animo, interés, ) Más adelante --------------- Más atrás o Adelante, Al medio, Atrás.
+2. 
 ***
 
 ## Links varios
