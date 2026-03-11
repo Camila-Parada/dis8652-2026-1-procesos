@@ -55,8 +55,9 @@ Se mostró una [imagen](https://datos.gob.es/es/blog/como-elegir-el-grafico-corr
 Les estudiantes se agruparon por tipos de actividades deportiva: bicicleta, baile y paracaidismo.
 Cada grupo va a generar 3 preguntas para poder encontrar información: una de preferencia (cualificable, hace referencia a las opiniones), otra de clasificación (orden sin ejercer importancia, es medible) y otra de cuantificación (es observable y se puede medir).
 Cómo un tipo de encuesta, hay que pensar en las posibles respuestas. Hay que pensar en el usuario y los datos a recopilar.
+La bicicleta sirve como un "objeto" para dar inicio a conversaciones que se involuran de forma directa o indirecta, a modo de poder descubrir más acerca de quienes integran el curso.
 
-Más cotidiano (deporte, transporte, se hacen mayores recorrids, es más cercano, más cotidiano y menos osado)
+Más cotidiano (deporte, transporte, se hacen mayores recorridos, es más cercano, más cotidiano y menos osado)
 
 Bicicleta =D Cualificable =D Personalidad y atrevimiento =D ¿En qué parte del salón te sientas? Adelante, en medio, atrás.
           =D Cercanía =D ¿Quién te enseñó?
@@ -69,7 +70,11 @@ Pandemia =D ¿En qué etapa educativa estabas durante la pandemia? Colegio (Ense
 Nivel social =D En un día de descanso, ¿Sales 
 
 1. ¿En que parte de la sala me siento? (según animo, interés, ) Más adelante --------------- Más atrás o Adelante, Al medio, Atrás.
-2. 
+
+El resultado final de la actividad fue un montaje improvisado realizado con notas adhesivas, pinchos, maskin tape e hilos varios.
+
+![varios-graficos](./imagenes/IMG_0739.jpeg)
+
 ***
 
 ## Links varios
