@@ -57,23 +57,50 @@ Cada grupo va a generar 3 preguntas para poder encontrar información: una de pr
 Cómo un tipo de encuesta, hay que pensar en las posibles respuestas. Hay que pensar en el usuario y los datos a recopilar.
 La bicicleta sirve como un "objeto" para dar inicio a conversaciones que se involuran de forma directa o indirecta, a modo de poder descubrir más acerca de quienes integran el curso.
 
-Más cotidiano (deporte, transporte, se hacen mayores recorridos, es más cercano, más cotidiano y menos osado)
+### Anotaciones
 
-Bicicleta =D Cualificable =D Personalidad y atrevimiento =D ¿En qué parte del salón te sientas? Adelante, en medio, atrás.
-          =D Cercanía =D ¿Quién te enseñó?
+¿Qué es una bicicleta?
+Es un objeto cotidiano, que se usa para deporte y transporte. Permite hacer mayores recorridos, es más cercano, más común que las otras actividades y menos osado. Nos permite saber mucho de alguien. Por ejemplo, estilo de vida, distancias, horarios, etc, y este mismo tema nos puede ir desvelando más información.
+
+*Pequeño diagrama:*
+
+Bicicleta =D Cualificable =D Personalidad y atrevimiento =D ¿En qué parte del salón te sientas? Adelante, en medio, atrás (según animo, interés, etc)
+          =D Relaciones =D ¿Quién te enseñó?
           =D Género =D ¿Qué tipo de personas prefieren?
           =D Vestimenta =D ¿Cuánto tiempo te demoras en elegir tu ropa?
+          =D Las distancias de las cosas =D ¿Cuánto se demoran en llegar a la U?, ¿Que tan cerca tienes acceso a un espacio de deporte (ginmacio, parque, etc)?
+          =D Pandemia =D ¿En qué etapa educativa estabas durante la pandemia? Colegio (Enseñanza media), Sabático (Descanso, trabajo, etc), Universidad
+          =D Nivel socialización =D En un día de descanso o tiempo libre, ¿Sales a algún lado?
 
-Las distancias de las cosas, ¿Cuánto se demoran en llegar a la U?, ¿Que tan cerca tienes acceso a un espacio de deporte (ginmacio, parque, etc)?
-
-Pandemia =D ¿En qué etapa educativa estabas durante la pandemia? Colegio (Enseñanza media), Sabático (Descanso, trabajo, etc), Universidad
-Nivel social =D En un día de descanso, ¿Sales 
-
-1. ¿En que parte de la sala me siento? (según animo, interés, ) Más adelante --------------- Más atrás o Adelante, Al medio, Atrás.
+### Resultados
 
 El resultado final de la actividad fue un montaje improvisado realizado con notas adhesivas, pinchos, maskin tape e hilos varios.
 
-![varios-graficos](./imagenes/IMG_0739.jpeg)
+![varios-graficos](./imagenes/IMG_0746.jpeg)
+
+Las preguntas expuestas según los equipos fueron:
+
+*A) Baile*
+
+- ¿Cuántos ramos tienes? "3 - 0", "4", "5 o más"
+- ¿Qué tan procrastinador eres? "0", "1", "2", "3", "4"
+- ¿Qué tan digital eres? Del 1 al 5 "1", "2", "3", "4", "5"
+
+*B) Paracaidismo*
+
+- ¿Qué género musical prefieres? "Pop", "Reggeaton", "Tecno", "Clásica", "Rock"
+- ¿Tienes un estilo de vida activo o sedentario? "Activo", "Sedentario"
+- ¿Cuántos tatuajes tienes? "0", "1 - 5", "6 - 10", "Más de 10"
+
+*C) Bicicleta*
+
+- ¿En qué parte de la sala me siento? "Adelante", "Al medio", "Atrás"
+- ¿Con cuánto tiempo me levanto antes de ir a clases? "3 hrs antes", "2hrs antes", "1 hr antes", "30min antes"
+- ¿Cuántos días tengo de descanso? "5 ", "3 a 4", "1 a 2", "0"
+
+### Conclusiones
+
+
 
 ***
 
