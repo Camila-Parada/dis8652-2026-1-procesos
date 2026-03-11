@@ -64,6 +64,60 @@ Es un objeto cotidiano, que se usa para deporte y transporte. Permite hacer mayo
 
 *Pequeño diagrama:*
 
+```mermaid
+flowchart TD
+    A[Biclicleta] --> B(Personalidad)
+    A[Biclicleta] --> C(Relaciones)
+    A[Biclicleta] --> D(Género)
+    A[Biclicleta] --> E(Vestimenta)
+    A[Biclicleta] --> F(Distancias)
+    A[Biclicleta] --> G(Pandemia)
+    A[Biclicleta] --> H(Social)
+
+        B --> 1(¿En qué parte del salón te sientas?)
+        C --> 2(¿Quién te enseñó?)
+        D --> 3(¿Qué tipo de personas prefieren?)
+        E --> 4(¿Cuánto tiempo te demoras en elegir tu ropa?)
+        F --> 5(¿Cuánto te demoras en llegar a la U?)
+        G --> 6(¿En qué etapa educativa estabas durante la pandemia?)
+        H --> 7(En un día de descanso o tiempo libre, ¿Sales a algún lado?)
+
+        1 --> 8(Adelante)
+        1 --> 9(En medio)
+        1 --> 10(Atrás)
+
+        2 --> 11(Papá)
+        2 --> 12(Mamá)
+        2 --> 13(Hermana/o)
+        2 --> 14(Tía/o)
+        2 --> 15(Otro)
+
+        3 --> 16(Hombre)
+        3 --> 17(Mujer)
+        3 --> 18(Trans)
+        3 --> 19(No binarie)
+
+        4 --> 20(2 hrs)
+        4 --> 21(1 hr)
+        4 --> 22(30 mins)
+        
+        5 --> 25(3 hrs)
+        5 --> 26(2 hrs)
+        5 --> 27(1 hr)
+        5 --> 28(30 min)
+        
+        6 --> 30(Colegio)
+        6 --> 31(Año sabático)
+        6 --> 32(Universidad)
+        
+        7 --> 40(Si)
+        7 --> 41(No)
+        
+```
+
+_*En comentarios ocultos se encuentra la información escrita_
+
+<!-- 
 Bicicleta =D Cualificable =D Personalidad y atrevimiento =D ¿En qué parte del salón te sientas? Adelante, en medio, atrás (según animo, interés, etc)
           =D Relaciones =D ¿Quién te enseñó?
           =D Género =D ¿Qué tipo de personas prefieren?
@@ -71,6 +125,7 @@ Bicicleta =D Cualificable =D Personalidad y atrevimiento =D ¿En qué parte del 
           =D Las distancias de las cosas =D ¿Cuánto se demoran en llegar a la U?, ¿Que tan cerca tienes acceso a un espacio de deporte (ginmacio, parque, etc)?
           =D Pandemia =D ¿En qué etapa educativa estabas durante la pandemia? Colegio (Enseñanza media), Sabático (Descanso, trabajo, etc), Universidad
           =D Nivel socialización =D En un día de descanso o tiempo libre, ¿Sales a algún lado?
+-->
 
 ### Resultados
 
@@ -100,7 +155,7 @@ Las preguntas expuestas según los equipos fueron:
 
 ### Conclusiones
 
-
+Al observar los resultados de las respuestas se pueden destacar las respuestas con mayor concentración.
 
 ***
 
