@@ -33,7 +33,7 @@ Tras ello, cada estudiante hizo su entrega y nos dispusimos a escuchar (mediante
 
 ***
 
-## Introducción
+## Encargo 02
 
 Primera unidad del curso. Se va a dar de manera progresiva, mostrando herramientas a utilizar y demás, cómo llevarlos a la visualidad.
 Trabajar con información de redes sociales. Se trabaja con material fotográfico y textos de RRSS. Sólo trabajar con instagram, para analizar publicaciones desarrolladas por personas.
