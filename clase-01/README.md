@@ -190,6 +190,9 @@ El tipo de “material” que analiza la web se centra en lo visual, exponiendo 
 
 Esto genera un atractivo para quien visita la página, puesto que no solo con navegar puede encontrar de forma dinámica creaciones de autores latinos, filtrando según los gustos e intereses del usuario.
 
+### Lámina gráfica
+
+![varios-graficos](./imagenes/lamina-encargo-01.jpg)
 
 ***
 
