@@ -175,11 +175,11 @@ Buscar un proyecto o referente que realice algún tipo de análisis de imágenes
 
 El formato de presentación es una lámina cuadrada en formato digital que describa qué tipo de material analiza el proyecto y qué tipo de patrones o información busca revelar.
 
-### Investigación: Archivo de literatura digital en América Latina
+### Investigación: [Archivo de literatura digital en América Latina](https://www.cartografiadigital.cl/map)
 
 ![varios-graficos](./imagenes/pagina-web-cartografia-digital.jpg)
 
-Este proyecto se basa en una página web que funciona como un archivador de obras digitales de escritores latino americanos a la par que conecta con otros repositorios como el "Atlas da Literatura Digital Brasileira".
+Este proyecto se basa en una página web que funciona como un archivador de obras digitales de escritores latino americanos a la par que conecta con otros repositorios como el ["Atlas da Literatura Digital Brasileira"](https://www.observatorioldigital.ufscar.br/atlas-da-literatura-digital-brasileira/).
 
 El sitio expone principalmente este contenido de forma visual a través de varios elementos gráficos: un mapa de la región compuesto por extractos de imágenes de los documentos ordenados por ubicación según el país, otro mapa en el que de forma acertada indica el país al que pertenece, un indicador del género de la obra publicada, una línea temporal del año de publicación, un listado de técnicas utilizadas y formatos cuya presencia se destaca por el tamaño de un círculo que les acompaña.
 
