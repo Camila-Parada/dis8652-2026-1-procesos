@@ -3,6 +3,13 @@
 Martes 10 de Marzo 2025
 
 ***
+## Link de la Clase
+
+- [Primera clase](https://docs.google.com/presentation/d/1f2DiqzheYB-vfn0Wac8qAf0RmYrdDYjRT65QfPBWU5Q/edit?slide=id.g33efc2376bd_0_6#slide=id.g33efc2376bd_0_6)
+- [Linktree](https://linktr.ee/tallerdataudp)
+- [Instagram](https://www.instagram.com/tallerdataudp/)
+
+***
 
 ## Observaciones
 
@@ -192,7 +199,7 @@ Esto genera un atractivo para quien visita la página, puesto que no solo con na
 
 ### Lámina gráfica
 
-![varios-graficos](./imagenes/lamina-encargo-01_13-03.jpg)
+![varios-graficos](./imagenes/lamina-encargo-01_13-03-camila-parada.jpg)
 
 ***
 
