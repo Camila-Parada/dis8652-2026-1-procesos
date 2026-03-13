@@ -192,7 +192,7 @@ Esto genera un atractivo para quien visita la página, puesto que no solo con na
 
 ### Lámina gráfica
 
-![varios-graficos](./imagenes/lamina-encargo-01.jpg)
+![varios-graficos](./imagenes/lamina-encargo-01_13-03.jpg)
 
 ***
 
