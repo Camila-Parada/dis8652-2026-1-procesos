@@ -1,19 +1,19 @@
 
-# ⋆⭒˚.⋆ Título del día ⋆.˚⭒⋆
+# ⋆⭒˚.⋆ Correcciones encargo 02 ⋆.˚⭒⋆
 
-Martes x de Marzo 2026
+Martes 17 de Marzo 2026
 
 ***
 
 ## Observaciones
 
-Bla bla
+La clase inició en la tarde. Al iniciar se nos recordó subir el archivo al Miró del curso. Colocamos toda la información que pudo ser obtenida de este estudio, mostrando el excel, diagrama hecho en canvas, documento recopilando conclusiones y una imagen del perfil. Tras ello cada grupo comenzó a presentar sus estudios. 
 
 ***
 
-## Introducción
+## Nuevas observaciones, enfoques e ideas para continuar
 
-Bla bla
+Mejorar la tabla. Separar por categorías las imágenes (trabajo, personal) Ver si existe una correlación entre la persona y qué es lo que hace. 
 
 ***
 
