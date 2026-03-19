@@ -1,6 +1,6 @@
 # ⋆⭒˚.⋆ Título del día ⋆.˚⭒⋆
 
-Viernes x de Marzo 2025
+Viernes x de Marzo 2026
 
 ***
 
